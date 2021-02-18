@@ -12,4 +12,4 @@ class DelForm(FlaskForm):
 
     id = IntegerField('Id number of puppy to remove')
     submit = SubmitField('Remove Puppy')
-    ..
+    .
