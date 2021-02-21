@@ -22,4 +22,6 @@ Requirements for the project
  * flask_sqlalchemy
 
 
- * Run app.py to see the work
+ * Run app.py with [Postman](https://www.postman.com) to properly see the endpoints
+
+
