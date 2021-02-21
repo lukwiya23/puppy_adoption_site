@@ -1,8 +1,9 @@
 # puppy_adoption_site
-A website where people can adopt puppies // Backend in python flask
-No Home Page
+*A website where people can adopt puppies // Backend in python flask
+*No Home Page
 
---Working routes
+-Working routes
+------------------
 1.Add puppy owner
 2.Add puppy
 3.Delete puppy
@@ -13,9 +14,11 @@ No Home Page
 I mostly focused on the backend
 
 Requirements for the project
--flask
--flask-wtf
--flask-migrate
--flask_sqlalchemy
+-----------------------------
+*flask
+*flask-wtf
+*flask-migrate
+*flask_sqlalchemy
 
-Run app.py to see the work
+
+*Run app.py to see the work
