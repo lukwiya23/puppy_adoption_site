@@ -1,7 +1,8 @@
-puppy_adoption_site
+Puppy Adoption Site
 ------------------
-*A website where people can adopt puppies // Backend in python flask
-*No Home Page
+* A website where people can adopt puppies //
+*  Backend in python flask
+* No Home Page
 
 Working routes
 ------------------
